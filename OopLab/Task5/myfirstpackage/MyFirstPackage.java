@@ -3,6 +3,7 @@ package myfirstpackage;
 public class MyFirstPackage{
 	private int number1;
 	private int number2;
+	private int number3;
 	
 	public MyFirstPackage(int numbe1, int numbe2)
 	{
