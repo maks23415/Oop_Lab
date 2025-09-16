@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Ivanov Petrov Sidorov
+Main-Class: MyFirstClass
+
