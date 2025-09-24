@@ -1,0 +1,7 @@
+*.txt text
+*.java text
+*.xml text
+*.md text
+
+*.png -text
+*.jpg -text
